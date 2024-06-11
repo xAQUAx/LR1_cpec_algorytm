@@ -1,0 +1,4 @@
+LIBRARY TrianglePlugin
+EXPORTS
+	GetPluginFigureName
+	GetPluginFigure

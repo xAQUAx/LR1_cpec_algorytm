@@ -1,0 +1,4 @@
+LIBRARY BallPlugin
+EXPORTS
+	GetPluginFigureName
+	GetPluginFigure

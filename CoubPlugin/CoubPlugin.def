@@ -1,0 +1,4 @@
+LIBRARY CoubPlugin
+EXPORTS
+	GetPluginFigureName
+	GetPluginFigure
